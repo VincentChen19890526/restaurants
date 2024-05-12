@@ -26,19 +26,31 @@ git clone https://github.com/VincentChen19890526/restaurants.git
 cd /restaurants
 ```
 
-3. 安裝npm
+3. 安裝 npm
 
 ```
 npm install
 ```
 
-4. 啟動專案
+4. 安裝 express 和 express-handlebars
+
+```
+npm i express express-handlebars
+```
+
+5. 安裝 nodemon
+
+```
+npm install -g nodemon
+```
+
+6. 啟動專案
 
 ```
 npm run start
 ```
 
-5. 成功時，終端機會顯示訊息
+7. 成功時，終端機會顯示訊息
 
 ```
 express server is running on http://localhost:3000
