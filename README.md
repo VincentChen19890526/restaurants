@@ -38,19 +38,13 @@ npm install
 npm i express express-handlebars
 ```
 
-5. 安裝 nodemon
-
-```
-npm install -g nodemon
-```
-
-6. 啟動專案
+5. 啟動專案
 
 ```
 npm run start
 ```
 
-7. 成功時，終端機會顯示訊息
+6. 成功時，終端機會顯示訊息
 
 ```
 express server is running on http://localhost:3000
