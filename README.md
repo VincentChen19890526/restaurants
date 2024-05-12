@@ -44,4 +44,4 @@ npm run start
 express server is running on http://localhost:3000
 ```
 
-請打開瀏覽器進入網址: http://localhost:3000 to see the website.
+請打開瀏覽器輸入網址: http://localhost:3000
