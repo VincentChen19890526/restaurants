@@ -20,10 +20,10 @@
 git clone https://github.com/VincentChen19890526/restaurants.git
 ```
 
-2. Move to the food_cat_web directory
+2. Move to the restaurants
 
 ```
-cd food_cat_web
+cd restaurants
 ```
 
 3. Restore the dependencies
