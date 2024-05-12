@@ -14,28 +14,34 @@
 
 ## 安裝
 
-1. Clone the repository
+1. 複製專案
 
 ```
 git clone https://github.com/VincentChen19890526/restaurants.git
 ```
 
-2. Move to the restaurants
+2. 進入專案資料夾
 
 ```
-cd restaurants
+cd /restaurants
 ```
 
-3. Restore the dependencies
+3. 安裝npm
 
 ```
 npm install
 ```
 
-4. Launch the application
+4. 啟動專案
 
 ```
 npm run start
 ```
 
-In your browser, open http://localhost:3000 to see the website.
+5. 成功時，終端機會顯示訊息
+
+```
+express server is running on http://localhost:3000
+```
+
+請打開瀏覽器進入網址: http://localhost:3000 to see the website.
